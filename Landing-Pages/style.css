@@ -1,0 +1,185 @@
+
+.Backround{
+    height: 750px;
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    filter: brightness(0.4);
+    -webkit-filter: brightness(0.5);
+}
+.Backround2{
+    height: 550px;
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 1250px;
+    left: 0;
+    z-index: -1;
+    filter: brightness(0.4);
+    -webkit-filter: brightness(0.5);
+}
+.Visual{
+    position: relative;
+    height: 200;
+    width: 100%;
+    bottom: 300px;
+    z-index: -1;
+    filter: brightness(0.6);
+    -webkit-filter: brightness(0.6);
+}
+
+.navbar{
+    font-size: 15px; 
+    
+}
+.logo {
+    margin-top: -5; /* Sesuaikan nilai ini untuk menaikkan logo */
+}
+
+.merk {
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    font-size: 15;
+    line-height: 1; /* Sesuaikan ini untuk memastikan teks sejajar dengan logo */
+}
+.produk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 99; /* Sesuaikan agar gambar berada di tengah vertikal */
+
+}
+
+.Laptop-gaming {
+    transform: scale(1.3); 
+}
+.FONT1{
+    font-family: 'Orbitron';
+    font-stretch: expanded;
+   color: #f7f7f7 ;
+   text-align: center;  
+}
+.bgBelakang{
+    background-color:#110f0f ;
+}
+.SLOGAN{
+    color: #ececec;
+    text-align: center;
+    font-size: 30px;
+}
+
+.peforma-laptop {
+    color: #ececec;
+    text-align: center;
+    max-width: 700px;
+    position: relative;
+    left: 280px;
+    margin: 0;
+}
+.Prossesor{
+    transform: scale(0.2); 
+    position: relative;
+    right:260px ;
+    bottom: 170px;
+    filter: brightness(1.5);
+    margin-top: 50px
+}
+.Julukan{
+    position: relative;
+    right:150px ;
+    bottom: 550PX;
+    margin-left: 20px;
+    text-align: center;
+    margin: 0;
+}
+.Hyperion{
+    position: relative;
+    left: 200px;
+    bottom: 20px;
+    margin-top: 10px;
+}
+
+.TProssesor{
+    position: relative;
+    bottom: 600px;
+}
+
+.p1{
+    position: relative;
+    bottom: 570px;
+}
+
+.GPU{
+position: relative;
+bottom: 480px;
+
+}
+.Gteks{
+    position: relative;
+    bottom: 470px;
+}
+.ilusGPU{
+position: relative;
+bottom: 400px;
+filter: brightness(0.8);
+    -webkit-filter: brightness(0.8);
+}
+.spekGPU{
+    position: relative;
+    bottom: 350px;
+}
+.PenjelasanSpek{
+    position: relative;
+    bottom: 355px;
+}
+
+.VISUAL{
+    position: relative;
+    bottom: 250px;
+}
+.isiVisual{
+    position: relative;
+    bottom: 247px;
+}
+.LaptopV{
+    position: relative;
+    bottom: 1000px;
+    transform: scale(0.5);
+    z-index: -1;
+    filter: brightness(0.7);
+    -webkit-filter: brightness(0.7);
+}
+.PL{
+    position: relative;
+    top: 550px;
+}
+.spekF{
+    position: relative;
+    bottom: 1500px;
+}
+.preview{
+    position:relative;
+    bottom: 1500px;
+    z-index: -1;
+    filter: brightness(0.8);
+    -webkit-filter: brightness(0.8);
+}
+.bgSpek{
+height: 500px ;
+width: 100%;
+position: relative;
+bottom: 1050px;
+z-index: -1;
+filter: brightness(0.5);
+-webkit-filter: brightness(0.6);
+}
+/* {
+    font-size: 20px;
+} */
+
+h5 {
+    font-size: 25px;
+}
