@@ -10,26 +10,7 @@
     filter: brightness(0.4);
     -webkit-filter: brightness(0.5);
 }
-.Backround2{
-    height: 550px;
-    width: 100%;
-    object-fit: cover;
-    position: absolute;
-    top: 1250px;
-    left: 0;
-    z-index: -1;
-    filter: brightness(0.4);
-    -webkit-filter: brightness(0.5);
-}
-.Visual{
-    position: relative;
-    height: 200;
-    width: 100%;
-    bottom: 300px;
-    z-index: -1;
-    filter: brightness(0.6);
-    -webkit-filter: brightness(0.6);
-}
+
 
 .navbar{
     font-size: 15px; 
@@ -79,6 +60,19 @@
     left: 280px;
     margin: 0;
 }
+
+.Backround2{
+    height: 550px;
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 1250px;
+    left: 0;
+    z-index: -1;
+    filter: brightness(0.4);
+    -webkit-filter: brightness(0.5);
+}
+
 .Prossesor{
     transform: scale(0.2); 
     position: relative;
@@ -89,7 +83,7 @@
 }
 .Julukan{
     position: relative;
-    right:150px ;
+    right:190px ;
     bottom: 550PX;
     margin-left: 20px;
     text-align: center;
@@ -97,14 +91,14 @@
 }
 .Hyperion{
     position: relative;
-    left: 200px;
+    left: 220px;
     bottom: 20px;
     margin-top: 10px;
 }
 
 .TProssesor{
     position: relative;
-    bottom: 600px;
+    bottom: 570px;
 }
 
 .p1{
@@ -114,39 +108,46 @@
 
 .GPU{
 position: relative;
-bottom: 480px;
+bottom: 270px;
 
 }
 .Gteks{
     position: relative;
-    bottom: 470px;
+    bottom: 270px;
 }
 .ilusGPU{
 position: relative;
-bottom: 400px;
+bottom: 140px;
 filter: brightness(0.8);
     -webkit-filter: brightness(0.8);
 }
 .spekGPU{
     position: relative;
-    bottom: 350px;
+    bottom: 100px;
 }
 .PenjelasanSpek{
     position: relative;
-    bottom: 355px;
+    bottom: 100px;
 }
 
 .VISUAL{
     position: relative;
-    bottom: 250px;
+    bottom: 0px;
 }
-.isiVisual{
+
+.Visual{
     position: relative;
-    bottom: 247px;
+    height: 200;
+    width: 100%;
+    
+    z-index: -1;
+    filter: brightness(0.6);
+    -webkit-filter: brightness(0.6);
 }
+
 .LaptopV{
-    position: relative;
-    bottom: 1000px;
+    position: relative; 
+    bottom: 700px;
     transform: scale(0.5);
     z-index: -1;
     filter: brightness(0.7);
@@ -154,24 +155,24 @@ filter: brightness(0.8);
 }
 .PL{
     position: relative;
-    top: 550px;
+    bottom: 870px;
 }
 .spekF{
     position: relative;
-    bottom: 1500px;
+    bottom: 1200px;
 }
 .preview{
     position:relative;
-    bottom: 1500px;
+    bottom: 1250px;
     z-index: -1;
     filter: brightness(0.8);
     -webkit-filter: brightness(0.8);
 }
 .bgSpek{
+position: relative;
 height: 500px ;
 width: 100%;
-position: relative;
-bottom: 1050px;
+bottom: 800px;
 z-index: -1;
 filter: brightness(0.5);
 -webkit-filter: brightness(0.6);
